@@ -1,6 +1,6 @@
 # Age, Gender and Emotion classification with CNN
 By Elsa Jonsson and Chonratid Pangdee
-2021-
+2021-03-19
 
 This is a mini project given in the course D7041E Applied Artificial Intelligence at Luleå University of Technology spring term 2021.
 
