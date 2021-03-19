@@ -63,6 +63,7 @@ def UTKFaceDataDistribution(genders, ages):
     gender =['Male', 'Female']
     values = gender_counts[:2]
     ax.bar(gender,values)
+    plt.ylabel('distribution')
     plt.show()
     
     plt.plot(ages_counts)
